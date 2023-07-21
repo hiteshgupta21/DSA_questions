@@ -1,3 +1,6 @@
+//https://leetcode.com/problems/132-pattern/description/
+
+
 import java.util.*;
 public class _132 {
 
